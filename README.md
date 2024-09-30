@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav Dubey</h1>
 <h3 align="center">👨‍💻 Anubhav - 2nd-Year CSE Student at GCET Jammu</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="cat-computer.gif">
 <p align="left"> <a href="https://twitter.com/anubhavkikasam" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavkikasam?logo=twitter&style=for-the-badge" alt="anubhavkikasam" /></a> </p>
 
 - 🔭 I’m currently working on [College website](experiencegcet.netlify.app)
