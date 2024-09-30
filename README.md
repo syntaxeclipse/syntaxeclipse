@@ -1,3 +1,5 @@
+![logo](coding-is-tough-coding.gif)
+
 <h1 align="center">Hi 👋, I'm Anubhav Dubey</h1>
 <h3 align="center">👨‍💻 Anubhav - 2nd-Year CSE Student at GCET Jammu</h3>
 <img align="right" alt="coding" width="400" src="cat-computer.gif">
