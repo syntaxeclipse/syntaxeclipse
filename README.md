@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **🛠️ Technologies I Work With" "HTML, CSS, Python, C - and always exploring more**
 
-- 📫 How to reach me **anubhavdubey6005@gmal**
+- 📫 How to reach me **anubhavdubey6005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
